@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+https://i.gifer.com/74pZ.gif
+
 - 🔭 I’m currently working on a few Python projects.
 - 🌱 I’m currently improving my Python, Power BI and SQL skills.
 - 👯 I’m looking to collaborate on Data Science projects.

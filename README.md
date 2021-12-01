@@ -1,4 +1,4 @@
-###  <p align="center"> Hi there 👋 </p>
+###  <p align="center"> Hi there 👋 My name is Sergei and I'm very passionate about data science! 📊 </p>
 
 
 <p align="center">

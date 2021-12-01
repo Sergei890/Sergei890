@@ -4,8 +4,7 @@
 <img src=  "https://user-images.githubusercontent.com/83758339/144279672-8137dcb6-e70b-41b9-a885-a9e9e0ba59e0.png" width="500" height="158" />
 </p>
 
-<img align="right" alt = "GIF" src= "https://user-images.githubusercontent.com/83758339/144259985-6fbe7bda-085e-41d9-9388-4c9675275fdc.gif" width="280" height="211"/>
-
+<img align="right" alt = "GIF" src= "https://user-images.githubusercontent.com/83758339/144294566-1b978de9-a909-4515-8563-2ad940064a22.gif" width="280" height="211"/>
 
 - 🔭 I’m currently working on a few Python projects where i'm trying to implement interactive visualizations.
 - 🌱 I’m constantly improving my Python, Excel, Power BI and SQL skills.

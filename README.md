@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-https://i.gifer.com/74pZ.gif
+![74pZ](https://user-images.githubusercontent.com/83758339/144259985-6fbe7bda-085e-41d9-9388-4c9675275fdc.gif)
 
 - 🔭 I’m currently working on a few Python projects.
 - 🌱 I’m currently improving my Python, Power BI and SQL skills.

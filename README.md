@@ -28,12 +28,12 @@ I am especially interested in roles where **analytics, process automation, and b
 
 ## What I work with
 
-![Python](https://img.shields.io/badge/Python-Data%20Automation-blue?style=for-the-badge\&logo=python)
-![SQL](https://img.shields.io/badge/SQL-Data%20Exploration-lightgrey?style=for-the-badge\&logo=postgresql)
-![Power BI](https://img.shields.io/badge/Power%20BI-Dashboards-yellow?style=for-the-badge\&logo=powerbi)
-![Excel](https://img.shields.io/badge/Excel-Workflow%20Replication-green?style=for-the-badge\&logo=microsoftexcel)
-![ETL](https://img.shields.io/badge/ETL-Data%20Pipelines-orange?style=for-the-badge)
-![Data Quality](https://img.shields.io/badge/Data%20Quality-Validation%20%26%20Cleaning-purple?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-Data%20Automation-64748b?style=for-the-badge&logo=python&logoColor=white&labelColor=334155)
+![SQL](https://img.shields.io/badge/SQL-Data%20Exploration-7c6f9f?style=for-the-badge\&logo=postgresql)
+![Power BI](https://img.shields.io/badge/Power%20BI-Dashboards-c9a94f?style=for-the-badge\&logo=powerbi)
+![Excel](https://img.shields.io/badge/Excel-Workflow%20Replication-72b8a0?style=for-the-badge\&logo=microsoftexcel)
+![ETL](https://img.shields.io/badge/ETL-Data%20Pipelines-82b87f?style=for-the-badge)
+![Data Quality](https://img.shields.io/badge/Data%20Quality-Validation%20%26%20Cleaning-c97c7c?style=for-the-badge)
 
 ---
 

@@ -17,7 +17,7 @@ I am especially interested in roles where **analytics, process automation, and b
 <img 
   alt="Data Analytics GIF" 
   src="https://user-images.githubusercontent.com/83758339/144294566-1b978de9-a909-4515-8563-2ad940064a22.gif" 
-  width="240"
+  width="300"
 />
 
 </td>

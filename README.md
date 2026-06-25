@@ -1,4 +1,4 @@
-###  <p align="center"> Hi there 👋 My name is Sergei and I'm very passionate about data science! 📊 </p>
+###  <p align="center"> Hi there 👋 My name is Sergei and I'm very passionate about data! 📊 </p>
 
 <p align="center"> 
 <img src=  "https://user-images.githubusercontent.com/83758339/144279672-8137dcb6-e70b-41b9-a885-a9e9e0ba59e0.png" width="500" height="158" />

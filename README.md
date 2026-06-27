@@ -3,13 +3,10 @@
     <td width="65%" valign="top">
 
 # Hi, I’m Sergei 👋  
-### Data Analyst / Data Solutions Developer
+**Data Analyst / BI Analyst** focused on Python automation, ETL, data quality, and BI reporting.
 
 I build practical data solutions that connect **data analysis, business understanding, automation, and reporting**.
-
-My work focuses on transforming messy business data into clean, structured, and usable outputs through **Python automation, ETL workflows, SQL analysis, Power BI dashboards, Excel-to-Python process replication, and data-quality improvements**.
-
-I am especially interested in roles where **analytics, process automation, and business decision-making** overlap.
+I work on practical data workflows: cleaning, validating, transforming, and preparing data for analysis, dashboards, reporting, and structured outputs.
 
 </td>
 <td width="35%" align="center" valign="middle">
@@ -26,38 +23,43 @@ I am especially interested in roles where **analytics, process automation, and b
 
 ---
 
-## What I work with
+## Tech stack
 
-![Python](https://img.shields.io/badge/Python-Data%20Automation-64748b?style=for-the-badge&logo=python&logoColor=white&labelColor=334155)
-![SQL](https://img.shields.io/badge/SQL-Data%20Exploration-7c6f9f?style=for-the-badge\&logo=postgresql)
-![Power BI](https://img.shields.io/badge/Power%20BI-Dashboards-c9a94f?style=for-the-badge\&logo=powerbi)
-![Excel](https://img.shields.io/badge/Excel-Workflow%20Replication-72b8a0?style=for-the-badge\&logo=microsoftexcel)
-![ETL](https://img.shields.io/badge/ETL-Data%20Pipelines-82b87f?style=for-the-badge)
-![Data Quality](https://img.shields.io/badge/Data%20Quality-Validation%20%26%20Cleaning-c97c7c?style=for-the-badge)
-
----
-
-## Main areas of interest
-
-* Python-based reporting and workflow automation
-* ETL processes and data transformation
-* SQL analysis and business data exploration
-* Power BI dashboard preparation and reporting logic
-* Excel process replication with Python
-* Data cleaning, validation, and quality checks
-* Business-oriented analytics solutions
-* Machine-learning fundamentals and applied analytics
+![Python](https://img.shields.io/badge/Python-64748b?style=flat&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-64748b?style=flat&logo=postgresql&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-64748b?style=flat&logo=powerbi&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-64748b?style=flat&logo=microsoftexcel&logoColor=white)
+![ETL](https://img.shields.io/badge/ETL-64748b?style=flat)
+![Data Quality](https://img.shields.io/badge/Data%20Quality-64748b?style=flat)
+![Git](https://img.shields.io/badge/Git-64748b?style=flat&logo=git&logoColor=white)
 
 ---
 
-## Professional direction
+## Focus areas
 
-I enjoy building solutions that do more than only analyze data.
+- Data cleaning and validation
+- Python-based workflow automation
+- ETL and API-based data extraction
+- SQL analysis and structured data exploration
+- Power BI dataset preparation and reporting logic
+- Excel-to-Python process automation
+- Data-quality checks and reusable reporting outputs
 
-My goal is to create tools and workflows that help teams:
+---
 
-* reduce manual work,
-* improve data reliability,
-* make reporting faster,
-* structure business information clearly,
-* and turn raw data into practical decisions.
+## Tools and methods
+
+- **Programming:** Python, pandas, NumPy
+- **Databases & queries:** SQL
+- **BI & reporting:** Power BI, Power Query, DAX, Excel
+- **Automation:** openpyxl, REST APIs, ETL workflows
+- **Applications:** Flask basics, Git
+- **Data work:** cleaning, validation, transformation, fuzzy matching, structured outputs
+
+---
+
+## Repositories
+
+This GitHub is used for selected technical examples, portfolio projects, and sanitized/synthetic-data demos related to data analysis, automation, ETL, and BI workflows.
+
+---
